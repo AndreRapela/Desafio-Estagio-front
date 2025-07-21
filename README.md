@@ -31,8 +31,8 @@ bash
 ### Clone o repositório
 git clone https://github.com/AndreRapela/Desafio-Estagio-front.git
 
-### Entre no diretório
-cd books-dashboard
+# Entre no diretório
+cd Desafio-Estagio-front
 
 ### Instale as dependências
 npm install
