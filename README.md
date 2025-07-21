@@ -29,7 +29,7 @@ Uma aplicação web moderna para explorar e descobrir livros usando a API públi
 
 \`\`\`bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/books-dashboard.git
+git clone https://github.com/AndreRapela/Desafio-Estagio-front.git
 
 # Entre no diretório
 cd books-dashboard
