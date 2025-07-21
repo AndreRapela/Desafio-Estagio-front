@@ -31,7 +31,7 @@ bash
 ### Clone o repositório
 git clone https://github.com/AndreRapela/Desafio-Estagio-front.git
 
-# Entre no diretório
+### Entre no diretório
 cd Desafio-Estagio-front
 
 ### Instale as dependências
