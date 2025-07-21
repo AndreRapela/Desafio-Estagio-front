@@ -27,19 +27,19 @@ Uma aplicação web moderna para explorar e descobrir livros usando a API públi
 
 ## 📦 Instalação
 
-\`\`\`bash
-# Clone o repositório
+bash
+### Clone o repositório
 git clone https://github.com/AndreRapela/Desafio-Estagio-front.git
 
-# Entre no diretório
+### Entre no diretório
 cd books-dashboard
 
-# Instale as dependências
+### Instale as dependências
 npm install
 
-# Execute em modo de desenvolvimento
+### Execute em modo de desenvolvimento
 npm start
-\`\`\`
+
 
 ## 🛠️ Scripts Disponíveis
 
