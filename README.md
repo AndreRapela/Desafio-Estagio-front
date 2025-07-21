@@ -32,7 +32,7 @@ Uma aplicação web moderna para explorar e descobrir livros usando a API públi
 git clone https://github.com/AndreRapela/Desafio-Estagio-front.git
 
 # Entre no diretório
-cd books-dashboard
+cd Desafio-Estagio-front
 
 # Instale as dependências
 npm install
